@@ -23,7 +23,7 @@ A simple task management application built with **HTML**, **CSS**, and **Vanilla
 Clone the repository and open `index.html` in your browser, or run it using Live Server in VS Code.
 
 ```bash
-git clone https://github.com/yourusername/task-list.git
+git clone https://github.com/danitdev/task-list.git
 ```
 
 ## 📸 Screenshots
